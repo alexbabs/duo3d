@@ -63,7 +63,7 @@ int main(int argc, char* argv[])
 		return 1;
 	}
 	// Set the Dense3D license (visit https://duo3d.com/account)
-	if(!SetDense3DLicense(dense3d, "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX")) // <-- Put your Dense3D license
+	if(!SetDense3DLicense(dense3d, "FRYTM-35TU6-O4FQK-Y6APA-OP8V1")) // <-- Put your Dense3D license
 	{
 		printf("Invalid or missing Dense3D license. To get your license visit https://duo3d.com/account\n");
 		// Close DUO camera
